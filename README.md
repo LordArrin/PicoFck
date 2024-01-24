@@ -1,5 +1,5 @@
 # PicoFck
-<img src="https://github.com/LordArrin/PicoFck/blob/main/logo.png" align=”middle” >
+<img src="https://github.com/LordArrin/different_trash/blob/main/logo.png"/>
 Block update and log servers from Pico 4
 
 Pico активировали проверку подписи apk на сервере и это ломает модифицированные приложения, это затрагивает в основном только глобальные прошивки 5.5.0 и выше.
