@@ -1,77 +1,154 @@
-0.0.0.0 http://abtest-ch.snssdk.com
-0.0.0.0 http://appupdate-api.picovr.com
-0.0.0.0 http://boe.i.snssdk.com
-0.0.0.0 http://iot.smartisan.com
-0.0.0.0 http://is.snssdk.com
-0.0.0.0 http://log.snssdk.com
-0.0.0.0 http://mon.snssdk.com
-0.0.0.0 http://mon.toutiao.com
-0.0.0.0 http://mon.toutiaocloud.com
-0.0.0.0 http://mon.toutiaocloud.net
-0.0.0.0 http://monsetting.toutiao.com
-0.0.0.0 http://os-mon.zijieapi.com
-0.0.0.0 http://pui.picovr.com
-0.0.0.0 http://stone-boe.bytedance.net
-0.0.0.0 http://stone-sandbox.bytedance.net
-0.0.0.0 https://abtest-ch.snssdk.com
-0.0.0.0 https://appstore-us.picovr.com
-0.0.0.0 https://appupdate-api.picovr.com
-0.0.0.0 https://boe.i.snssdk.com
-0.0.0.0 https://boei18n-device.bytedance.net
-0.0.0.0 https://business.picoxr.com
-0.0.0.0 https://cloudapi.bytedance.net
-0.0.0.0 https://databyterangers.com.cn
-0.0.0.0 https://device-global.picoxr.com
-0.0.0.0 https://i-global.picovr.com
-0.0.0.0 https://i-global.picoxr.com
-0.0.0.0 https://i-global.piocvr.com
-0.0.0.0 https://i.isnssdk.com
-0.0.0.0 https://i.sgsnssdk.com
-0.0.0.0 https://i.snssdk.com
-0.0.0.0 https://iot.smartisan.com
-0.0.0.0 https://is.snssdk.com
-0.0.0.0 https://log-global.picoxr.com
-0.0.0.0 https://log.byteoversea.com
-0.0.0.0 https://log.isnssdk.com
-0.0.0.0 https://log.sgsnssdk.com
-0.0.0.0 https://log.snssdk.com
-0.0.0.0 https://log15.byteoversea.com
-0.0.0.0 https://matrix-us.picovr.com
-0.0.0.0 https://mon-va.tiktokv.com
-0.0.0.0 https://mon.byteoversea.com
-0.0.0.0 https://mon.isnssdk.com
-0.0.0.0 https://mon.snssdk.com
-0.0.0.0 https://mon.toutiao.com
-0.0.0.0 https://mon.toutiaocloud.com
-0.0.0.0 https://mon.toutiaocloud.net
-0.0.0.0 https://monsetting.toutiao.com
-0.0.0.0 https://ns.adobe.com
-0.0.0.0 https://os-mon.zijieapi.com
-0.0.0.0 https://pdev-api-boe.bytedance.net
-0.0.0.0 https://pico-appstore-boei18n.bytedance.net
-0.0.0.0 https://pico-push-boei18n.bytedance.net
-0.0.0.0 https://picolinks.picovr.com
-0.0.0.0 https://picolinks.picoxr.com
-0.0.0.0 https://platform-us.picovr.com
-0.0.0.0 https://pui.picovr.com
-0.0.0.0 https://push-ovs-api.picovr.com
-0.0.0.0 https://rtlog-global.picoxr.com
-0.0.0.0 https://rtlog.byteoversea.com
-0.0.0.0 https://rtlog.isnssdk.com
-0.0.0.0 https://rtlog.sgsnssdk.com
-0.0.0.0 https://security.snssdk.com
-0.0.0.0 https://semver.org
-0.0.0.0 https://setting-global-api.picovr.com
-0.0.0.0 https://sns.picovr.com
-0.0.0.0 https://stone-boe.bytedance.net
-0.0.0.0 https://stone-sandbox.bytedance.net
-0.0.0.0 https://success.itobsnssdk.com
-0.0.0.0 https://success.tobsnssdk.com
-0.0.0.0 https://tobapplog.itobsnssdk.com
-0.0.0.0 https://tobapplog.tobsnssdk.com
-0.0.0.0 https://toblog.itobsnssdk.com
-0.0.0.0 https://toblog.tobsnssdk.com
-0.0.0.0 https://user-api.picovr.com
-0.0.0.0 https://user-pico-boe.bytedance.net
-0.0.0.0 https://www.ietf.org
-0.0.0.0 https://www.joda.org
+||https://abtest-ch.snssdk.com^
+||https://appupdate-api.picovr.com^
+||https://boe.i.snssdk.com^
+||https://iot.smartisan.com^
+||https://is.snssdk.com^
+||https://log.snssdk.com^
+||https://mon.snssdk.com^
+||https://mon.toutiao.com^
+||https://mon.toutiaocloud.com^
+||https://mon.toutiaocloud.net^
+||https://monsetting.toutiao.com^
+||https://os-mon.zijieapi.com^
+||https://pui.picovr.com^
+||https://stone-boe.bytedance.net^
+||https://stone-sandbox.bytedance.net^
+||https://abtest-ch.snssdk.com^
+||https://appstore-us.picovr.com^
+||https://appupdate-api.picovr.com^
+||https://boe.i.snssdk.com^
+||https://boei18n-device.bytedance.net^
+||https://business.picoxr.com^
+||https://cloudapi.bytedance.net^
+||https://databyterangers.com.cn^
+||https://device-global.picoxr.com^
+||https://i-global.picovr.com^
+||https://i-global.picoxr.com^
+||https://i-global.piocvr.com^
+||https://i.isnssdk.com^
+||https://i.sgsnssdk.com^
+||https://i.snssdk.com^
+||https://iot.smartisan.com^
+||https://is.snssdk.com^
+||https://log-global.picoxr.com^
+||https://log.byteoversea.com^
+||https://log.isnssdk.com^
+||https://log.sgsnssdk.com^
+||https://log.snssdk.com^
+||https://log15.byteoversea.com^
+||https://matrix-us.picovr.com^
+||https://mon-va.tiktokv.com^
+||https://mon.byteoversea.com^
+||https://mon.isnssdk.com^
+||https://mon.snssdk.com^
+||https://mon.toutiao.com^
+||https://mon.toutiaocloud.com^
+||https://mon.toutiaocloud.net^
+||https://monsetting.toutiao.com^
+||https://ns.adobe.com^
+||https://os-mon.zijieapi.com^
+||https://pdev-api-boe.bytedance.net^
+||https://pico-appstore-boei18n.bytedance.net^
+||https://pico-push-boei18n.bytedance.net^
+||https://picolinks.picovr.com^
+||https://picolinks.picoxr.com^
+||https://platform-us.picovr.com^
+||https://pui.picovr.com^
+||https://push-ovs-api.picovr.com^
+||https://rtlog-global.picoxr.com^
+||https://rtlog.byteoversea.com^
+||https://rtlog.isnssdk.com^
+||https://rtlog.sgsnssdk.com^
+||https://security.snssdk.com^
+||https://semver.org^
+||https://setting-global-api.picovr.com^
+||https://sns.picovr.com^
+||https://stone-boe.bytedance.net^
+||https://stone-sandbox.bytedance.net^
+||https://success.itobsnssdk.com^
+||https://success.tobsnssdk.com^
+||https://tobapplog.itobsnssdk.com^
+||https://tobapplog.tobsnssdk.com^
+||https://toblog.itobsnssdk.com^
+||https://toblog.tobsnssdk.com^
+||https://user-api.picovr.com^
+||https://user-pico-boe.bytedance.net^
+||https://www.ietf.org^
+||https://www.joda.org^
+||http://abtest-ch.snssdk.com^
+||http://appupdate-api.picovr.com^
+||http://boe.i.snssdk.com^
+||http://iot.smartisan.com^
+||http://is.snssdk.com^
+||http://log.snssdk.com^
+||http://mon.snssdk.com^
+||http://mon.toutiao.com^
+||http://mon.toutiaocloud.com^
+||http://mon.toutiaocloud.net^
+||http://monsetting.toutiao.com^
+||http://os-mon.zijieapi.com^
+||http://pui.picovr.com^
+||http://stone-boe.bytedance.net^
+||http://stone-sandbox.bytedance.net^
+||http://abtest-ch.snssdk.com^
+||http://appstore-us.picovr.com^
+||http://appupdate-api.picovr.com^
+||http://boe.i.snssdk.com^
+||http://boei18n-device.bytedance.net^
+||http://business.picoxr.com^
+||http://cloudapi.bytedance.net^
+||http://databyterangers.com.cn^
+||http://device-global.picoxr.com^
+||http://i-global.picovr.com^
+||http://i-global.picoxr.com^
+||http://i-global.piocvr.com^
+||http://i.isnssdk.com^
+||http://i.sgsnssdk.com^
+||http://i.snssdk.com^
+||http://iot.smartisan.com^
+||http://is.snssdk.com^
+||http://log-global.picoxr.com^
+||http://log.byteoversea.com^
+||http://log.isnssdk.com^
+||http://log.sgsnssdk.com^
+||http://log.snssdk.com^
+||http://log15.byteoversea.com^
+||http://matrix-us.picovr.com^
+||http://mon-va.tiktokv.com^
+||http://mon.byteoversea.com^
+||http://mon.isnssdk.com^
+||http://mon.snssdk.com^
+||http://mon.toutiao.com^
+||http://mon.toutiaocloud.com^
+||http://mon.toutiaocloud.net^
+||http://monsetting.toutiao.com^
+||http://ns.adobe.com^
+||http://os-mon.zijieapi.com^
+||http://pdev-api-boe.bytedance.net^
+||http://pico-appstore-boei18n.bytedance.net^
+||http://pico-push-boei18n.bytedance.net^
+||http://picolinks.picovr.com^
+||http://picolinks.picoxr.com^
+||http://platform-us.picovr.com^
+||http://pui.picovr.com^
+||http://push-ovs-api.picovr.com^
+||http://rtlog-global.picoxr.com^
+||http://rtlog.byteoversea.com^
+||http://rtlog.isnssdk.com^
+||http://rtlog.sgsnssdk.com^
+||http://security.snssdk.com^
+||http://semver.org^
+||http://setting-global-api.picovr.com^
+||http://sns.picovr.com^
+||http://stone-boe.bytedance.net^
+||http://stone-sandbox.bytedance.net^
+||http://success.itobsnssdk.com^
+||http://success.tobsnssdk.com^
+||http://tobapplog.itobsnssdk.com^
+||http://tobapplog.tobsnssdk.com^
+||http://toblog.itobsnssdk.com^
+||http://toblog.tobsnssdk.com^
+||http://user-api.picovr.com^
+||http://user-pico-boe.bytedance.net^
+||http://www.ietf.org^
+||http://www.joda.org^
