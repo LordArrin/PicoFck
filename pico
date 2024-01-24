@@ -78,3 +78,6 @@
 ||toblog.tobsnssdk.com^
 ||us-api.passport.picovr.com^
 ||wup.imtt.qq.com^
+*.picovr.com
+*.picoxr.com
+*.isnssdk.com
