@@ -1,8 +1,8 @@
-!api.passport.picovr.com
-!user-api.picovr.com
-!user-pico-boe.bytedance.net
-!user-pico-openapi-boei18n.bytedance.net
-!connectivitycheck-global.picovr.com^
+#api.passport.picovr.com
+#user-api.picovr.com
+#user-pico-boe.bytedance.net
+#user-pico-openapi-boei18n.bytedance.net
+#connectivitycheck-global.picovr.com^
 ||abtest-ch.snssdk.com^
 ||abtest-global.picovr.com^
 ||applog.snssdk.com^
