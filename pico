@@ -62,8 +62,10 @@
 ||*bytedance.net^
 ||*bytedance.com^
 #unlock
-@@||*api.passport.picovr.com^
-@@||*user-api.picovr.com^
-@@||*user-pico-boe.bytedance.net^
-@@||*user-pico-openapi-boei18n.bytedance.net^
-@@||*connectivitycheck-global.picovr.com^
+@@||*api.passport.picovr.com^$important
+@@||*user-api.picovr.com^$important
+@@||*user-pico-boe.bytedance.net^$important
+@@||*user-pico-openapi-boei18n.bytedance.net^$important
+@@||*connectivitycheck-global.picovr.com^$important
+@@||*avatar.picovr.com^$important^$important
+@@||*connectivitycheck.picovr.com^$important
