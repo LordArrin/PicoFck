@@ -65,7 +65,8 @@
 @@||*user-api.picovr.com^$important
 @@||*user-pico-boe.bytedance.net^$important
 @@||*user-pico-openapi-boei18n.bytedance.net^$important
-@@||*connectivitycheck-global.picovr.com^$important
+#@@||*connectivitycheck-global.picovr.com^$important
+#@@||*connectivitycheck.picovr.com^$important
 @@||*avatar.picovr.com^$important
-@@||*connectivitycheck.picovr.com^$important
 @@||*user.picovr.com^$important
+@@||matrix-cn.picovr.com^$important
