@@ -1,4 +1,6 @@
-||abtest-global.picovr.com^
+
+@@||avatar.picovr.com^$important
+@@||user.picovr.com^$important||abtest-global.picovr.com^
 ||applog.zijieapi.com^
 ||appstore.picovr.com^
 ||appstore-us.picovr.com^
@@ -67,5 +69,6 @@
 @@||*user-pico-boe.bytedance.net^$important
 @@||*user-pico-openapi-boei18n.bytedance.net^$important
 @@||*connectivitycheck-global.picovr.com^$important
-@@||*avatar.picovr.com^$important^$important
+@@||*avatar.picovr.com^$important
 @@||*connectivitycheck.picovr.com^$important
+@@||*user.picovr.com^$important
