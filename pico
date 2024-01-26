@@ -1,7 +1,4 @@
-||applog.zijieapi.com^
-||boei18n-device.bytedance.net^
 ||cfg.imtt.qq.com^
-||cloudapi.bytedance.net^
 ||databyterangers.com.cn^
 ||debugtbs.qq.com^
 ||debugx5.qq.com^
@@ -9,7 +6,6 @@
 ||iot.smartisan.com^
 ||log.byteoversea.com^
 ||log.tbs.qq.com^
-||log.zijieapi.com^
 ||log15.byteoversea.com^
 ||mdc.html5.qq.com^
 ||mon-va.tiktokv.com^
@@ -18,17 +14,10 @@
 ||mon.toutiaocloud.com^
 ||monsetting.toutiao.com^
 ||mqqad.html5.qq.com^
-||os-mon.zijieapi.com^
-||pdev-api-boe.bytedance.net^
-||pico-appstore-boei18n.bytedance.net^
-||pico-push-boei18n.bytedance.net^
 ||pms.mb.qq.com^
 ||rtlog.byteoversea.com^
-||rtlog.zijieapi.com^
 ||small.smartisan.com^
 ||soft.tbs.imtt.qq.com^
-||stone-boe.bytedance.net^
-||stone-sandbox.bytedance.net^
 ||wup.imtt.qq.com^
 ||vertigo-games.com^
 ||*isnssdk.com^
@@ -40,6 +29,8 @@
 ||*picoxr.com^
 ||*piocvr.com^
 ||*byteoversea.net^
+||*zijieapi.com^
+||*bytedance.net^
 #unlock
 @@||*api.passport.picovr.com^$important
 @@||*user-api.picovr.com^$important
