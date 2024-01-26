@@ -18,7 +18,6 @@
 ||mon.toutiaocloud.com^
 ||monsetting.toutiao.com^
 ||mqqad.html5.qq.com^
-||ns.adobe.com^
 ||os-mon.zijieapi.com^
 ||pdev-api-boe.bytedance.net^
 ||pico-appstore-boei18n.bytedance.net^
@@ -31,6 +30,7 @@
 ||stone-boe.bytedance.net^
 ||stone-sandbox.bytedance.net^
 ||wup.imtt.qq.com^
+||vertigo-games.com^
 ||*isnssdk.com^
 ||*sgsnssdk.com^
 ||*snssdk.com^
@@ -49,4 +49,5 @@
 #@@||*connectivitycheck.picovr.com^$important
 @@||*avatar.picovr.com^$important
 @@||*user.picovr.com^$important
+#for login once
 #@@||matrix-cn.picovr.com^$important
