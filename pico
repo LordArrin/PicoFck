@@ -1,3 +1,4 @@
+||*.qq.com^
 ||*akamai.com^
 ||*bytedance.net^
 ||*byteoversea.com^
@@ -12,17 +13,8 @@
 ||*toutiao.com^
 ||*toutiaocloud.com^
 ||*zijieapi.com^
-||cfg.imtt.qq.com^
 ||databyterangers.com.cn^
-||debugtbs.qq.com^
-||debugx5.qq.com^
-||log.tbs.qq.com^
-||mdc.html5.qq.com^
 ||mon-va.tiktokv.com^
-||mqqad.html5.qq.com^
-||pms.mb.qq.com^
-||soft.tbs.imtt.qq.com^
-||wup.imtt.qq.com^
 #unlock
 @@||*api.passport.picovr.com^$important
 @@||*avatar.picovr.com^$important
