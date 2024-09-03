@@ -1,3 +1,33 @@
+!
+! Title: PicoFck Custom DNS Blocklist
+! Description: Custom filter list for using with the DNS blocker
+! Homepage: https://github.com/LordArrin/PicoFck
+! License: https://github.com/LordArrin/PicoFck/blob/main/LICENSE
+! Last modified: 03 September 2024 16:41
+! Expires: 24 hours (update frequency)
+! Issues: https://github.com/LordArrin/PicoFck/issues
+! Syntax: AdGuard Home v0.107.46
+!
+!
+! Кастомный список DNS фильтров PicoFck
+! Лицензия GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.html
+! Проект создан пользователем LordArrin, и нацелен на блокировку 
+! трекеров и серверов Pico для надлежайшей приватности и конфиденциальности.
+!==============================================================================
+! Дисклеймер/Disclaimer
+!==============================================================================
+! Я не отвечаю за сломанные сайты, умершие устройства, термоядерную войну 
+! или ваше психическое здоровье из-за сбоя вашего любимого сайта. 
+! Пожалуйста, имейте в виду, что вы устанавливаете этот фильтр на ваш собственный риск! 
+! ВЫ сами решили внести эти изменения, и если вы решите винить меня за то, 
+! что я испортил ваш день, я буду смеяться над вами.
+!==============================================================================
+! I am not responsible for broken sites, dead devices, thermonuclear war
+! or your mental health because your favorite website crashes.
+! Please keep in mind that you install this filter at your own risk!
+! YOU decided to make these changes, and if you decide to blame me for it,
+! that I ruined your day, I will laugh at you.
+!
 ||*.qq.com^
 ||*akamai.com^
 ||*bytedance*^
