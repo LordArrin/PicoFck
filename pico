@@ -3,7 +3,7 @@
 ! Description: Custom filter list for using with the DNS blocker
 ! Homepage: https://github.com/LordArrin/PicoFck
 ! License: https://github.com/LordArrin/PicoFck/blob/main/LICENSE
-! Last modified: 03 September 2024 16:41
+! Last modified: 08 January 2025 20:58
 ! Expires: 24 hours (update frequency)
 ! Issues: https://github.com/LordArrin/PicoFck/issues
 ! Syntax: AdGuard Home v0.107.46
@@ -28,22 +28,24 @@
 ! YOU decided to make these changes, and if you decide to blame me for it,
 ! that I ruined your day, I will laugh at you.
 !
-||*.qq.com^
-||*akamai.com^
+||*.qq.*^
+||*akamai.*^
 ||*bytedance*^
 ||*byteoversea*^
-||*isnssdk.com^
-||*picovr.com^
-||*picoxr.com^
-||*piocvr.com^
-||*sgsnssdk.com^
-||*smartisan.com^
-||*snssdk.com^
-||*toutiao.com^
-||*toutiaocloud.com^
-||*zijieapi.com^
-||databyterangers.com.cn^
-||mon-va.tiktokv.com^
+||*databyterangers*^
+||*isnssdk*^
+||*matrix-cn.picovr*^
+||*mon-va.tiktokv*^
+||*pico-license-device*^
+||*picovr*^
+||*picoxr*^
+||*piocvr*^
+||*sgsnssdk*^
+||*smartisan*^
+||*snssdk*^
+||*toutiao*^
+||*toutiaocloud*^
+||*zijieapi*^
 #unlock
 @@||*api.passport.picovr.com^$important
 @@||*avatar.picovr.com^$important
