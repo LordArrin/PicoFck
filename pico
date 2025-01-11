@@ -3,7 +3,7 @@
 ! Description: Custom filter list for using with the DNS blocker
 ! Homepage: https://github.com/LordArrin/PicoFck
 ! License: https://github.com/LordArrin/PicoFck/blob/main/LICENSE
-! Last modified: 10 January 2025 08:13
+! Last modified: 11 January 2025 06:09
 ! Expires: 24 hours (update frequency)
 ! Issues: https://github.com/LordArrin/PicoFck/issues
 ! Syntax: AdGuard Home v0.107.46
@@ -29,7 +29,7 @@
 ! that I ruined your day, I will laugh at you.
 !
 ||*.qq.*^
-||*akamai.*^
+||*akamai.com*^
 ||*bytedance*^
 ||*byteoversea*^
 ||*databyterangers*^
