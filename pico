@@ -3,14 +3,14 @@
 ! Description: Custom filter list for using with the DNS blocker
 ! Homepage: https://github.com/LordArrin/PicoFck
 ! License: https://github.com/LordArrin/PicoFck/blob/main/LICENSE
-! Last modified: 11 January 2025 06:09
+! Last modified: 24 January 2025 20:50
 ! Expires: 24 hours (update frequency)
 ! Issues: https://github.com/LordArrin/PicoFck/issues
 ! Syntax: AdGuard Home v0.107.46
 !
 !
 ! Кастомный список DNS фильтров PicoFck
-! Лицензия GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.html
+! Лицензия AGPL-3.0: https://www.gnu.org/licenses/agpl-3.0.html
 ! Проект создан пользователем LordArrin, и нацелен на блокировку 
 ! трекеров и серверов Pico для надлежайшей приватности и конфиденциальности.
 !==============================================================================
